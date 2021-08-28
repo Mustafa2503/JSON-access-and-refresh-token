@@ -7,7 +7,7 @@ A simple express API for access and refresh token generation in web pages or OS 
 
 ### Installation Requirements
 - Node Installed https://nodejs.org/en/download/
-- PostgreSQL required. I used my own remote server but since I stored the acccess as a seperate environment variables and never committed them, you shall require your own data.
+- PostgreSQL required. I used my own remote server but since I stored the database reference in seperate environment variables and never committed the file containing them, you shall require your own data.
 
 Download the code or clone the files in your machine and then run
 - [ ] `npm install`
