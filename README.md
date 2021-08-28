@@ -15,3 +15,5 @@ Download the code or clone the files in your machine and then run
 Then run
 - [ ] `npm install -g npm-install-missing`
     
+To Run the API or test it (Postman recommended)
+- [ ] `npm run start:dev`
